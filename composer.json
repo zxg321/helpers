@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/helpers",
+    "name": "zxg321/laravel-admin-ext-helpers",
     "description": "Helpers extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "helpers"],
-    "homepage": "https://github.com/laravel-admin-extensions/helpers",
+    "homepage": "https://github.com/zxg321/laravel-admin-extensions-helpers",
     "license": "MIT",
     "authors": [
         {
